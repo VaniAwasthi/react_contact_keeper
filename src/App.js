@@ -10,18 +10,6 @@ function App() {
   const [contacts, setContacts] = useState(data);
   const [search, setSearch] = useState('');
 
-  // const sortName = () => {
-  //   setContacts(
-  //     data.sort((a, b) => {
-  //       return a.first_name.toLowerCase() < a.first_name.toLowerCase()
-  //         ? -1
-  //         : a.first_name.toLowerCase() > a.first_name.toLowerCase()
-  //         ? 1
-  //         : 0;
-  //     })
-  //   );
-  // };
-
   return (
     <div>
       <Container>

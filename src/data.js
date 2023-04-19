@@ -673,17 +673,17 @@ export const data = [
   },
   {
     id: 97,
-    first_name: 'Jorge',
-    last_name: 'Harpham',
+    first_name: 'Ram',
+    last_name: 'sing',
     email: 'jharpham2o@wikimedia.org',
-    phone: '382-887-0560',
+    phone: '9335990678',
   },
   {
     id: 98,
     first_name: 'Deny',
     last_name: 'Sillick',
     email: 'dsillick2p@bizjournals.com',
-    phone: '493-294-8194',
+    phone: '9335990091',
   },
   {
     id: 99,
@@ -694,9 +694,9 @@ export const data = [
   },
   {
     id: 100,
-    first_name: 'Jehanna',
+    first_name: 'eric',
     last_name: 'Emeney',
-    email: 'jemeney2r@ox.ac.uk',
-    phone: '650-186-3126',
+    email: 'eric@ox.ac.uk',
+    phone: '9567898763',
   },
 ];
